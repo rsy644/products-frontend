@@ -1,0 +1,199 @@
+.product-row {
+    margin-bottom: 20px;
+}
+
+.product-row label {
+    width: 100px;
+}
+
+.product-image {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px auto;
+}
+
+#delete-button {
+    cursor: pointer;
+}
+
+ul.products {
+    padding-left: 5px;
+    list-style-type: none;
+}
+
+.product-row.home {
+    margin-top: 20px;
+}
+
+.product-row.home label {
+    margin-top: 10px;
+    width: 100px;
+    font-size: 16px;
+    margin-top: 3px;
+}
+
+input.home.update.btn.btn-secondary {
+    padding: 0 10px;
+    position: relative;
+    top: -3px;
+}
+
+h1.product-title {
+    margin: 20px 0;
+
+}
+
+h2.product-title {
+    font-size: 12px;
+}
+
+.product-table {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.admin.product-table {
+    width: auto;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.sidebar {
+    height: 900px;
+    background-color: #555555;
+    float: left;
+    width: 300px;
+}
+
+.sidebar ul {
+    padding-top: 20px;
+    list-style-type: none;
+}
+
+.sidebar ul li a {
+    color: #ffffff;
+}
+
+.product-container {
+    float: left;
+}
+
+.admin.container {
+    float: left;
+    margin: 0 110px;
+    width: 900px;
+}
+
+.create.container {
+    float: left;
+    width: 900px;
+    margin-left: 0;
+}
+
+.admin .products {
+    text-align: center;
+}
+
+.product-input {
+    float: left;
+}
+
+.create #submit {
+    float: left;
+    margin-left: 35px;
+}
+
+.create a {
+    float: left;
+    margin-left: 35px;
+}
+
+.create.product-title {
+    text-align: left;
+    margin-left: 35px;
+    clear: left;
+}
+
+.product-title {
+    margin-top: 20px;
+}
+
+.products.row td {
+    margin-bottom: 30px !important;
+    display: inline-block;
+}
+
+.single-product-image {
+    height: 200px;
+    margin-bottom: 15px;
+    display: block;
+    margin: 0 auto;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-bottom: 0;
+}
+
+.thanks h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.thanks ul {
+    text-align: center;
+    list-style-type: none;
+    margin-top: 60px;
+    font-size: 16px;
+    color: #555;
+}
+
+.thanks ul li {
+    margin-bottom: 20px;
+}
+
+.g-recaptcha {
+    margin-left: 240px;
+    margin-bottom: 20px;
+}
+
+.captcha-error {
+    margin-left: 240px;
+    margin-bottom: 30px;
+    color: red;
+}
+
+footer {
+    margin-top: 50px;
+    display: block;
+}
+
+footer ul {
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer ul li {
+    text-align: center;
+    padding-right: 20px;
+    list-style-type: none;
+    display: inline;
+    color: #888;
+}
+
+footer p {
+    display: block;
+}
+
+.delete_button {
+    display: block;
+
+}
+
+.modal {
+    display: block;
+}
