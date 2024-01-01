@@ -1,29 +1,6 @@
-# products-frontend
+## Installation instructions
+* 1. Unzip the contents of 'products-frontend.zip' into the home directory of your local webserver, and call it something relevant, for example 'products-frontend'.
 
-This template should help get you started developing with Vue 3 in Vite.
+* 2. Make sure node modules is installed on your machine by running 'npm install'.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+* 3. Once installed, to start the application, run the command 'npm run start' and navigate to http://localhost:5173/.
